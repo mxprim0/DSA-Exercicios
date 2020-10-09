@@ -14,6 +14,6 @@
 2. [Gerar uma lista de números primos.](https://github.com/dan-primo/DSA-Exercicios/blob/master/DesafioDSA/Missao2.py)
 3. [Implementar um algoritmo para mover um robô do canto superior esquerdo para o canto inferior direito de uma grade.](https://github.com/dan-primo/DSA-Exercicios/blob/master/DesafioDSA/Missao3.py)
 4. [Implementar o Algoritmo de Ordenação "Selection sort".](https://github.com/dan-primo/DSA-Exercicios/blob/master/DesafioDSA/Missao4.py)
-5. Analisar o Comportamento de Compra de Consumidores.
+5. [Analisar o Comportamento de Compra de Consumidores.](https://github.com/dan-primo/DSA-Exercicios/blob/master/DesafioDSA/Missao5/missao5.ipynb)
 
 **Obs.: Este repositório ainda está _em contrução_.**
